@@ -1,4 +1,8 @@
-# Vertex — Examination Timetable Scheduling using Vertex Coloring
+# Vvertex Graph Scheduler
+
+A free public graph coloring web application for examination timetable scheduling and general graph coloring.
+
+## Examination Timetable Scheduling using Vertex Coloring
 
 A static college project demonstration built with HTML, CSS and native JavaScript modules. It models registered subjects as a conflict graph and colors that graph using Greedy Coloring, Welsh–Powell and DSATUR.
 
