@@ -44,3 +44,9 @@ The project dataset was supplied directly and stored verbatim in `js/project-dat
 - **DSATUR:** repeatedly chooses the uncolored vertex with highest neighbor-color saturation, then degree.
 
 The app verifies each coloring against all graph edges. These are heuristics; a valid result is not necessarily a minimum coloring.
+## 🌐 Live Website
+
+**Try Vvertex Graph Scheduler here:**
+
+[https://dyaswanth2007-afk.github.io/vvertex-graph-scheduler/](https://dyaswanth2007-afk.github.io/vvertex-graph-scheduler/)
+
